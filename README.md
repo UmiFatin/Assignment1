@@ -1,6 +1,6 @@
 # AI-Assisted Photo Cuing Syystem for Professional Event Photography Using Deep Learning
 
-[One sentence: what problem does this project solve, and for whom?]
+Professional Photographer did not need to review their client photo one by one and I do this system for Professional Event Photographer
 
 ## Problem statement
 [3 to 5 sentences: who is affected, what is going wrong, and why it matters.]
