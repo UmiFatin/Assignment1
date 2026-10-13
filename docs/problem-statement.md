@@ -1,7 +1,7 @@
 # Problem Statement
 
 ## Who is affected?
-[Users, stakeholders, or businesses]
+Photogapher
 
 ## What exactly is going wrong?
 [The friction, error, or inefficiency]
