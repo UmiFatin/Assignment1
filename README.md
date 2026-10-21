@@ -1,4 +1,4 @@
-# AI-Assisted Photo Cuing Syystem for Professional Event Photography Using Deep Learning
+# AI-Assisted Photo Culling System for Professional Event Photography Using Deep Learning
 
 Professional Photographer did not need to review their client photo one by one and I do this system for Professional Event Photographer
 
