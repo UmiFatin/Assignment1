@@ -1,13 +1,13 @@
 # Problem Statement
 
 ## Who is affected?
-Photogapher
+Professional Event Photographer
 
 ## What exactly is going wrong?
-[The friction, error, or inefficiency]
+Manualy review one by one photo that can take many hours with 3,000 to 4,000 photo per event.
 
 ## Why does it matter?
-[The impact or cost of the problem]
+Can lead to inconsistent decisions as the selection session continues.
 
 ## Problem statement (3 to 5 sentences)
-[Combine your three answers above into one short paragraph.]
+Professional event photographer must manualy review one by one photo that can take many hours with 3,000 to 4,000 photo per event. Reviewing every face in every photo is repetitive and tiring, which can lead to inconsistent decisions as the selection session continues.
