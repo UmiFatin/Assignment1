@@ -34,8 +34,8 @@ Professional event photographer must manualy review one by one photo that can ta
 - [ ] First prototype (later in the semester)
 
 ## Status
-Planning (CSC649, Week 2)
-Sprint 1 completed (CSC649, Week 3)
+- Planning (CSC649, Week 2)
+- Sprint 1 completed (CSC649, Week 3)
 
 ## Author
 Umi Fatin
